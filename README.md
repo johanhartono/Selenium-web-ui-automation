@@ -12,5 +12,8 @@ Menggunakan plugin Cucumber Report
 ![image](https://github.com/user-attachments/assets/53588925-082e-4306-8ee9-ee4a614a89cb)
 
 Positive Test case scenario using valid Username and Password
-Positiv Test case scenario using valid password and invalid password
+Negative Test case scenario using valid password and invalid password
+
+![image](https://github.com/user-attachments/assets/c48dd9b6-97a5-4ae1-b25b-8482ceb37d5b)
+
 
