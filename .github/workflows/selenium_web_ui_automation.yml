@@ -16,10 +16,10 @@ jobs:
     - uses: actions/checkout@v4
 
     # setup java
-    - name: Set up JDK 22
+    - name: Set up JDK 18
       uses: actions/setup-java@v4
       with:
-        java-version: '22'
+        java-version: '18'
         distribution: 'temurin'
     # install browser
     - name: Setup Chrome
