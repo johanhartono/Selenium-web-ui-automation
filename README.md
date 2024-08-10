@@ -6,7 +6,7 @@ IDE: IntelliDJA and VSCode <br />
 Programming Language: Java, Gherkins <br />
 OS Platfom: Windows 10 <br />
 
-Project Menggunakan POM(Page Object Model), Gherkins, Cucumber Report Plugin, Selenium Web Driver
+Project Menggunakan Gradle,POM(Page Object Model), Gherkins, Cucumber Report Plugin, Selenium Web Driver
 
 Menggunakan metoda Page Object Model (POM)
 ![image](https://github.com/user-attachments/assets/f495294a-6fd0-448c-a81b-98750f69ed16)
