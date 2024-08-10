@@ -17,9 +17,6 @@ Gherkins Language
 Gherkins and Step Definitions
 ![image](https://github.com/user-attachments/assets/f75eeb52-8888-4afb-80fe-efc6562688c7)
 
-Menggunakan plugin Cucumber Report
-![image](https://github.com/user-attachments/assets/53588925-082e-4306-8ee9-ee4a614a89cb)
-
 **Testing Scenario**
 
 Positive Test case scenario using valid Username and Password
@@ -27,4 +24,7 @@ Positive Test case scenario using valid Username and Password
 
 Negative Test case scenario using valid password and invalid password
 ![image](https://github.com/user-attachments/assets/1818503a-d49c-447d-84a2-f962f47d8d70)
+
+Results: Pelaporan Menggunakan plugin Cucumber Report
+![image](https://github.com/user-attachments/assets/53588925-082e-4306-8ee9-ee4a614a89cb)
 
