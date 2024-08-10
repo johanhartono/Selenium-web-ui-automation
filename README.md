@@ -1,10 +1,10 @@
 # Selenium-web-ui-automation
-Selenium Web UI Automation__
-Project: Selenium web UI Automation__
-Web Source: https://www.saucedemo.com/__
-IDE: IntelliDJA and VSCode__
-Programming Language: Java, Gherkins__
-OS Platfom: Windows 10__
+Selenium Web UI Automation <br />
+Project: Selenium web UI Automation <br />
+Web Source: https://www.saucedemo.com/ <br />
+IDE: IntelliDJA and VSCode <br />
+Programming Language: Java, Gherkins <br />
+OS Platfom: Windows 10 <br />
 
 Project Menggunakan POM(Page Object Model), Gherkins, Cucumber Report Plugin, Selenium Web Driver
 
